@@ -12,7 +12,9 @@ pip install textual
 
 ## Usage
 
+```bash
 python main.py
+```
 
 ## Controls
 
